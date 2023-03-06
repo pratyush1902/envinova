@@ -1,0 +1,346 @@
+@media only screen and (max-width: 600px){
+    *{
+        padding: 0;
+        margin: 0;
+        /* width: 100%; */
+         overflow-x:hidden;
+         
+         
+        
+         
+        background-color: transparent;
+    }
+    p{
+        font-size: 12px;
+    }
+    nav{
+        /* display: inline-block; */
+        flex-direction: row;
+        padding-top: 0;
+        background-color: transparent;
+        display: inline-flex;
+         
+    }
+    nav ul{
+        display: block;
+        background-color: transparent;
+    }
+    .sec1_heading{
+        padding: 10px;
+        font-size: 50px;
+    }
+    .sec1_subhead{
+        padding: 10px;
+        font-size: 30px;
+        color:  #89BEEF;
+    }
+    
+    .pic1>img{
+        display: flex;
+        flex-direction: column;
+        height: 300px;
+        width: 200px;
+        align-items:flex-start;
+        /* padding-left: 30px; */
+    }
+    .pic1_head{
+        font-size: 20px;
+        position: absolute;
+        top: 900px;
+        right: 2px;
+    }
+    .contaner{
+        display: flex;
+        flex-direction: row;
+
+        padding-left: 50px;
+    }
+    .card1{
+        flex: 33.33%;
+
+    }
+    .secondhead{
+        font-size: 30px;
+        padding: 10px;
+        padding-top: 20px;
+    }
+    .sec2card{
+        padding-left: 20px;
+    }
+    .sec2card{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        padding: auto;
+    }
+
+    .card2{
+        flex: 50%;
+    }
+    .lastsec2{
+        padding: 10px;
+        padding-left: 20px;
+        font-size: 20px;
+    }
+    .foursecpara1{
+        font-weight: 200px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .foursecpara2{
+        font-weight: 200px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .sec4contaner{
+        display: flex;
+        flex-direction: column;
+         align-items: center;
+    text-align: center;
+    }
+    .card3{
+        background-color: #90C1BF;
+        overflow: scroll;
+        
+    }
+    .fifthhead>h1{
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 40px;
+
+    }
+    .fifthhead>img{
+        height: 80px;
+        width: 80px;
+    }
+    .fifthsection>p{
+        font-size: 18px;
+    }
+    .uncard{
+        display: flex;
+        flex-direction: column;
+    }
+    .head6{
+font-weight: 400px;
+font-size: 50px;
+    }
+    .subhead6{
+        font-weight: 400px;
+        font-size: 20px;
+
+    }
+    .img6>img{
+        height: 250px;
+        width: 300px;
+
+    }
+    .head7{
+       font-weight: 400px;
+       font-size: 50px; 
+    }
+    .para7{
+     font-weight: 200px;
+     font-size: 18px;   
+    }
+    .img7>img{
+        height: 350px;
+        width: 300px;
+    }
+    .adress7{
+        font-weight: 200;
+        font-size: 20px;
+        line-height: 30px;
+
+    }
+    .head8{
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 70px;
+
+    }
+    .para8{
+        font-weight: 200;
+         
+        line-height:40px;
+        font-size: 18px
+
+    }
+    .con8{
+        display: flex;
+        flex-direction: column;
+    }
+    .con8>img{
+        padding: 20px;
+        padding-left: 30px;
+    }
+    .con8para>h3{
+        font-weight: 200;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .con8para>p{
+        font-weight: 200;
+        /* font-style: 25px; */
+        font-size: 19px;
+
+    }
+    .novastore>h2{
+        font-weight: 400;
+        /* font-style: 30px; */
+        line-height: 60px;
+    }
+    .novastore>p{
+        font-weight: 200;
+        font-size: 18px;
+        /* list-style: 30px; */
+
+    }
+    .novastore>a{
+        margin-left: 30px;
+        text-align: center;
+        padding: 5px;
+        padding-left: 20px;
+        
+    }
+    .bottomline{
+        height: 10px;
+    }
+    .contact>h3{
+        font-weight: 400px;
+        font-size: 40px;
+
+    }
+    .contact>p{
+        font-weight: 200;
+        font-size: 25px;
+        padding: 10px;
+    }
+    .addres>img{
+        padding: 5px;
+        height: 80px;
+        width: 80px;
+    }
+    .addres>p{
+        padding: 5px;
+        font-weight: 400;
+        font-size: 18px;
+
+    }
+    .conmail>img{
+        padding: 5px;
+        height: 80px;
+        width: 80px;
+    }
+    .conmail>p{
+        /* padding: 3px; */
+        font-weight: 400;
+        font-size: 18px;
+ 
+    }
+    .contact2{
+        padding-left: 20px;
+    }
+    .footer{
+        padding: 0;
+        margin: 0;
+        width: 410px;
+
+    }
+    .section8{
+        padding: 10px;
+    }
+    .section3>h3{
+        font-weight: 400;
+        font-size: 60px;
+        line-height: 80px;
+    }
+    .section3>h5{
+        font-weight: 400;
+        font-size: 30px;
+
+    }
+    .section3>p{
+        font-size: 30px;
+        font-weight: 200;
+
+    }
+
+    .imgsec3{
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+    }
+    .slideshow-container{
+        /* padding: 18px; */
+        max-width: 100%;
+    }
+    .pic1{
+        display: flex;
+        flex-direction: column;
+    }
+    .flip-card {
+        background-color:transparent ;
+        width: 300px;
+        height: 330px;
+        /* border: 1px solid #f1f1f1; */
+        /* perspective: 1000px;   */
+      }
+      
+       
+      .flip-card-inner {
+        background-color:#90C1BF ;
+        /* position: relative; */
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        /* transition: transform 0.8s; */
+        /* transform-style: preserve-3d; */
+      }
+      
+       
+      .flip-card:hover .flip-card-inner {
+        /* transform: rotateY(180deg) !important; */
+      }
+      
+       
+      .flip-card-front, .flip-card-back {
+        /* position: absolute; */
+        width: 100%;
+        height: 100%;
+        /* -webkit-backface-visibility: hidden; Safari */
+        /* backface-visibility: hidden; */
+      }
+      
+       
+      .flip-card-front {
+        background-color:#90C1BF;
+        color: black;
+      }
+      
+       
+      .flip-card-back {
+        background-color:  #90C1BF;
+        color: black;
+        /* transform: rotateY(180deg) !important; */
+      }
+      .cardsec{
+        text-align: center;
+      }
+     .mySlides>img{
+        object-fit:fill;
+     }
+     .flip-card-front>h3{
+     padding-top: 150px;
+     }
+     .btn2{
+        padding: 10px;
+        margin-top:10px ;
+     }
+   .navbar{
+    display: none;
+   }
+   .icons{
+    display: block;
+   }
+
+}
